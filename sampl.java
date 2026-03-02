@@ -1,4 +1,4 @@
-public class MCA
+class MCA
 {
 
  public static void main(String[] args) 
